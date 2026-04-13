@@ -1,0 +1,6 @@
+@PromoFlowApp_HostAddress = http://localhost:5032
+
+GET {{PromoFlowApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
